@@ -6,8 +6,11 @@ To use a shortcode just copy the required shortcode below and paste anywhere in 
 
 **[wiidoomedia_free_ro_plugin filtr_id="778"/]** default menu with all features (Use your Filter ID with Resales Online)
 ###### Settings
+
 example :
+
 [wiidoomedia_free_ro_plugin sngl_pg_slug="single-property" filtr_id="778" price_min="1000" price_max="5000000" price_step="10000" /] 
+
 ***sngl_pg_slug** = "your_page_slug_here" custom single property page slug
 
 **filtr_id = "your_resale_oline_API_filter_ID_number"** custom/single/default resale oline API ilter ID number
@@ -26,6 +29,6 @@ example :
 
 
 
-## Property Details (A page named "property-details" is required or change the shortcode 'sngl_pg_slug' settings for the search )
+### Property Details (A page named "property-details" is required or change the shortcode 'sngl_pg_slug' settings for the search )
 **[wii_props_details /]**
 Make sure to create a page called “property-details” and add the shortcode to see property details.
