@@ -1,8 +1,8 @@
 ![GitHub Logo](/images/wiidoo-media-resales-online-plugin.jpg)
 
 # Wiidoo Media Resales Online WordPress Plugin for Real Estate Spain
-Our Free version is available for download.!
-[Website](https://wordpresspluginresalesonline.com/free-version-of-plugin-v6/)
+Our Premium version is available for download.!
+[Wordpress Premium Plugin](https://wordpresspluginresalesonline.com/custom-filter-v2/)
 ## Shortcodes
 To use a shortcode just copy the required shortcode below and paste anywhere in your page.
 
