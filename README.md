@@ -9,7 +9,7 @@ To use a shortcode just copy the required shortcode below and paste anywhere in 
 
 example :
 
-[wiidoomedia_free_ro_plugin sngl_pg_slug="single-property" filtr_id="778" price_min="1000" price_max="5000000" price_step="10000" /] 
+**[wiidoomedia_free_ro_plugin sngl_pg_slug="single-property" filtr_id="778" price_min="1000" price_max="5000000" price_step="10000" /]** 
 
 ***sngl_pg_slug** = "your_page_slug_here" custom single property page slug
 
