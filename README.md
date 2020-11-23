@@ -21,3 +21,6 @@ loc_box=”0″ hide location selection dropdown
 wiipagesize=”12″ set the amount of properties to show on a page
 
 * You have to have your new developments subscription with resales before activating this.
+Property Details (A page named "property-details" is required or change the shortcode 'sngl_pg_slug' settings for the search )
+[wii_props_details /]
+Make sure to create a page called “property-details” and add the shortcode to see property details.
