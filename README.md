@@ -1,5 +1,5 @@
 ![GitHub Logo](/images/wiidoo-media-resales-online-plugin.jpg)
-Format: ![Alt Text](url)
+
 # Wiidoo Media Resales Online WordPress Plugin for Real Estate Spain
 Our Free version is available for download.!
 [Website](https://wordpresspluginresalesonline.com/free-version-of-plugin-v6/)
