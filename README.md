@@ -13,7 +13,7 @@ example :
 
 **[wiidoomedia_free_ro_plugin sngl_pg_slug="single-property" filtr_id="778" price_min="1000" price_max="5000000" price_step="10000" /]** 
 
-***sngl_pg_slug** = "your_page_slug_here" custom single property page slug
+**sngl_pg_slug** = "your_page_slug_here" custom single property page slug
 
 **filtr_id = "your_resale_oline_API_filter_ID_number"** custom/single/default resale oline API ilter ID number
 
